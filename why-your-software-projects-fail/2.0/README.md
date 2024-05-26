@@ -16,7 +16,7 @@
 * 크기: 가로 182 mm X 세로 257 mm
 * 페이지수: 3XX 페이지
 * ISBN 979-11-967623-4-6 (13000) (종이책), 979-11-967623-5-3 (15000) (전자책)
-* DOI: https://doi.org/10.23258/979-11-967623-5-3
+* DOI: [https://doi.org/10.23258/979-11-967623-5-3](https://doi.org/10.23258/979-11-967623-5-3)
 
 ### APA 7 스타일 인용 방법
 박창욱. (2024). _당신의 소프트웨어 프로젝트가 망하는 이유_ (2판). 와이출판. https://doi.org/10.23258/979-11-967623-5-3
@@ -24,7 +24,7 @@
 ### 오류 신고, 건의:
 [https://github.com/ypublishing/ypublishing.github.io/issues](https://github.com/ypublishing/ypublishing.github.io/issues)
 
-## Biblographic information
+## Bibliographic information
 * Title: Why your software projects fail
 * Edition: 2nd edition
 * Author: Chang Park
@@ -38,7 +38,7 @@
 * Dimensions: 182 mm X 257 mm
 * Number of pages: 3XX pages
 * ISBN: 979-11-967623-4-6 (paper), 979-11-967623-5-3 (ebook)
-* DOI: https://doi.org/10.23258/979-11-967623-5-3
+* DOI: [https://doi.org/10.23258/979-11-967623-5-3](https://doi.org/10.23258/979-11-967623-5-3)
 
 ### How to cite in APA 7 style
 Park, C. (2024). _Why your software projects fail_ (2nd ed.). Y Publishing. https://doi.org/10.23258/979-11-967623-5-3
