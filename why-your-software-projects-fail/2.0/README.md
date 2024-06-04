@@ -14,7 +14,7 @@
   + 신고번호: 제2019-000067호
 * 본문언어: 한국어
 * 크기: 가로 182 mm X 세로 257 mm
-* 페이지수: 3XX 페이지
+* 페이지수: 374 페이지
 * ISBN 979-11-967623-4-6 (13000) (종이책), 979-11-967623-5-3 (15000) (전자책)
 * DOI: [https://doi.org/10.23258/979-11-967623-5-3](https://doi.org/10.23258/979-11-967623-5-3)
 
@@ -36,7 +36,7 @@
   + registration number: 2019-000067
 * Language: Korean
 * Dimensions: 182 mm X 257 mm
-* Number of pages: 3XX pages
+* Number of pages: 374 pages
 * ISBN: 979-11-967623-4-6 (paper), 979-11-967623-5-3 (ebook)
 * DOI: [https://doi.org/10.23258/979-11-967623-5-3](https://doi.org/10.23258/979-11-967623-5-3)
 
