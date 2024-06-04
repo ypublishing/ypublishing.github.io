@@ -31,7 +31,7 @@
 * Date of publication: June 1, 2024
 * Place of publication: Seoul, Korea
 * Publisher: Y Publishing
-  + Address: (03643) 19-3 Songjukgil Seodaemoongu, Seoul, Korea
+  + address: (03643) 19-3 Songjukgil Seodaemoongu, Seoul, Korea
   + email: pub (at) ycomputing (dot) co (dot) (country code of Korea)
   + registration number: 2019-000067
 * Language: Korean
