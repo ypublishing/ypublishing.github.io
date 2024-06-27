@@ -21,6 +21,9 @@
 ### APA 7 형식 인용 방법
 박창욱. (2024). _당신의 소프트웨어 프로젝트가 망하는 이유_ (2판). 와이출판. https://doi.org/10.23258/979-11-967623-5-3
 
+### PDF 미리보기
+[why-your-software-projects-fail-2ed-sample.pdf](why-your-software-projects-fail-2ed-sample.pdf)
+
 ### 오류 신고, 건의:
 [https://github.com/ypublishing/ypublishing.github.io/issues](https://github.com/ypublishing/ypublishing.github.io/issues)
 
@@ -42,6 +45,9 @@
 
 ### How to cite in APA 7 style
 Park, C. (2024). _Why your software projects fail_ (2nd ed.). Y Publishing. https://doi.org/10.23258/979-11-967623-5-3
+
+### Read sample PDF
+[why-your-software-projects-fail-2ed-sample.pdf](why-your-software-projects-fail-2ed-sample.pdf)
 
 ### Errata report, suggestion:
 [https://github.com/ypublishing/ypublishing.github.io/issues](https://github.com/ypublishing/ypublishing.github.io/issues)
