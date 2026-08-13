@@ -1,0 +1,21 @@
+# Preface
+
+The reason your software project is doomed is because it’s a stupid you who is pushing it. That is the conclusion of this book. If you already know that, there is no need to read this book any longer. Close it.
+
+I spent decades in the IT industry. After retiring, in line with the plan to go live where food is cheap and good, I moved to Vietnam. And while stuffing myself to bursting with the various tropical fruits that pour down all year long and the sour-sweet Vietnamese dishes, I lived spending all day holed up at home, napping or doing the things of an internet addict. For a lazy man like me, that was literally life in heaven. But even this life slowly grew stale, and to make some different kind of work I hatched various schemes, one of which was writing this book. I could write it whenever I felt like it, and no one would say a word even if I didn’t write it, so it was just right for my stretched-out life in Vietnam.
+
+I would write whenever it occurred to me, but I never set a publication deadline for this book, and I never cared how far along the progress was. Then one day I discovered it had reached a publishable amount, so I decided to stop writing new material and start polishing what I had. But even that work dragged on endlessly, and I enjoyed the drag. The feeling of not wanting to do anything and the feeling of being so bored fought each other inside me. And so time kept flowing and flowing until we reached the publishing stage.
+
+When I first planned this book, I thought I would write about how to successfully complete a software project. The goal was not for people majoring in software engineering, but to write in a way that ordinary people could easily understand. The more I wrote, the more the content shifted from engineering to management. That meant bringing a software project to success involved not only engineering elements, but a complex interplay of many other elements. At the same time, the more I wrote, the more I realized that success is not guaranteed just by following what is written in the book, and conversely I started writing about the reasons for failure. To succeed you have to avoid or overcome all the conditions for failure, but it’s easy to say and hard to do, so most of them crash and burn. As I wrote, stories about crashing took up most of it, so I changed the book title to ‘Reasons for Failure.’
+
+In this book I examine the various factors that make software projects fail, broken down by the stages of the software development life cycle: planning and requirements, design, implementation, operation. And in the outsourced development chapter I look at the various factors that crop up when a project is done via outsourcing. Based on this, if you classify this book, it is a book specialized in risk management for software projects.
+
+One thing I realized while writing this book. The relationship between you and me is not a simple service provider-client relationship, but a relationship of love and hate. I felt how much I had wanted to say to you over the years. That is why I was able to write this book, and I am truly grateful to you. Without you, this book would never have seen the light of day. I’m not just saying it out of politeness, I really mean it. I was so annoyed at you, the exasperating person who wouldn’t listen to what I said. But in order to get the money out of your pocket, I had to cooperate with you by any means. As a result, I am now writing this with cola bought with your money. Thank you.
+
+After reading this book, what you will do is list a bunch of revision requests for me, just the way you did when you first saw the software I made. I sometimes miss the days when I lived listening to your inconsistent, all-over-the-place requirements. So I wrote this book to hear your requirements one more time. This book will change a little bit by little bit according to your requirements. But as always, regardless of your absurd requirements, I will decide the direction myself and proceed. I too hope that someday this book will be able to tell you the lottery winning numbers for next week, which is one of your unreasonable requirements.
+
+While staring at the shit-filled water of the Saigon River, I’m shitting today too.
+
+
+#### Note
+_translated from Korean to English by Muse Glimmer 30B_
